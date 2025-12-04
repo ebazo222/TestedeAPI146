@@ -1,0 +1,20 @@
+{
+  "id": 5001,
+  "category": {
+    "id": 5,
+    "name": "dog"
+  },
+  "name": "Kira",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 99,
+      "name": "vacinado"
+    },
+    {
+      "id": 100,
+      "name": "beagle"
+    }
+  ],
+  "status": "sold"
+}

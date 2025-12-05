@@ -1,0 +1,4 @@
+id,category.id,category.name,name,tag0.id,tags0.name,tags1.id,tags1.name,status
+5001,5,dog,Kira,99,vacinado,100,beagle,available
+5002,6,cat,Marinete,99,vacinado,120,persian,available
+5003,7,fish,Nemo,88,vermifugado,130,clownfish,available
